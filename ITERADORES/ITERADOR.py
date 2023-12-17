@@ -6,3 +6,9 @@ a = 10
 # este es un for que enumera 
 for i in range(0, a+1 ,2):
     print (f"numeros:{i}")
+    
+b = 20
+# este es un for que enumera 
+for i in range(0, b+1 ,2):
+    print (f"NUMEROS:{i}")
+    
